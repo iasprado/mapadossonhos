@@ -1,0 +1,51 @@
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+@font-face{
+    font-family: "branch";
+    src: url('../fonte/branch/BRANCH\ -\ For\ Personal\ Use\ Only.ttf');
+}
+body{
+    background-color: antiquewhite;
+}
+#titulo{
+    text-align: center;
+    color: rgb(230, 99, 99);
+    font-family: 'branch';
+}
+#t1{
+    margin-left: 400px;
+    width: 730px;
+    color: rgb(29, 29, 126);
+    font-size: 20px;
+}
+#isl1{
+ margin-left: 620px;
+}
+#cur{
+    margin-left: 50px;
+    width: 730px;
+    color: rgb(29, 29, 126);
+    font-size: 20px;
+}
+#pt{
+    margin-left: 50px;
+    width: 730px;
+    color: rgb(29, 29, 126);
+    font-size: 20px;
+}
+#video{
+    margin-left: 500px;
+}
+#ir{
+     margin-left: 50px;
+    width: 730px;
+    color: rgb(29, 29, 126);
+    font-size: 20px;
+}
+#comida{
+    margin-left: 60px;
+}
